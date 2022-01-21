@@ -21,8 +21,8 @@ f=Font(display)
 
 
 f.text("8",0,0,8) #8 pix
-f.text("16",8,0,8) #16 pix
-f.text("24",24,0,8) #24 pix
-f.text("32",48,0,8) #32 pix
+f.text("16",8,0,16) #16 pix
+f.text("24",24,0,24) #24 pix
+f.text("32",48,0,32) #32 pix
 f.show()
 ```
